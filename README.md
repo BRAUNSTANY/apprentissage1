@@ -22,15 +22,19 @@ h1 {
   font-family: 'Rancho'; 
   text-align: center;
   font-size: 55px;
-  padding:10px;
   border-radius:15px;
-  background-color:#E569E5;
-  margin: 40px 0 0 0;
+  background-color:#E80E54;
+  margin: 100px 0 0 0;
+  padding: 2px;
+  color: rgba(229,15,186,1);
+  background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+  background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
 }
 
 
 p {
-  color: rgba(229,105,186,1);
+  color: rgba(229,15,186,1);
   background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
@@ -45,6 +49,18 @@ p {
   border-radius:9px;
   
   }
+  img {
+     
+  height: 320px; 
+  padding: 10px;
+  font-size:40px;
+  line-height: 40px;
+  text-align: center;
+  margin: 5px;
+  transition: height .5s;
+  
+  }
+ 
  
 
 
@@ -71,8 +87,13 @@ input {
 </head>
 
 <body>
-<h1>Candice Esthétic</h1>
+<h1>Candice Esthétic'</h1>
+<br>
 <p><em>Esthéticienne à domicile<em></p>
+<br>
+<br>
+<br></br>
+<img src="http://www.vistaprint.fr/plt/lp.aspx?r2qs=QSH_hwgUgUjFgQut___tk_8lDpIAAofzAABb___bJ_5P4AAAFgSSGU03xKHSPu1Q_mAACFaFgSSZGmYtiZgzdmDMGyswZgzBmrMGYPNFf3XoUoOWxsdCjVydoeSHn9Dix6vLQsCqKEzoksbjDZPsaF5oQgAAGBSKlJfQjBRVD4lJRRF5SrUYiUq9HXlKXSGpS4UnkUq9LHlKZTCxSqUzyUrFOXFKRT9RS1VG2Uo9TwFKlVT5SoVaaUplY1lKNWZxSmVrOUp9blFKRXF9oWBVFCuMatNkGQNkyBoXmgyAAAYFJSUl9CMFKJQwpSi0QOUpFExFKJRWBSsUYQUq9GzFLhR1JSkUhEUq9I4FKfSbxSkUogUqFLEFKZTC5SkUySUrFNLlK3TepS5U78Uq9PmlKrUCBSkVCYUpFRilKjUiZSr1M8UqVTwlKxVHBSr1UsUpFVslKvVqJSq1cqUolXolKjWFJSqVkUUrFZylKZWoRSn1roUp9bTFKZW7BSr1wUUuFcmlIjXTdoWBVFDDagTNxhsn2NC80IAAADApECkmovEpRKQXKVGktClHpWApTKYJKUamYSlIpuopKKfAKVaoiSlXqRYpS6mNKXCqNSlXqsEpTKs4KUarkCiqwYtCwKooZtKlBuMNk%24xoXmg8AAAYFFFInSG5SM0mIUjFLJlInTAJSKU2gUi9OZFItUAJSM1DOUjlSbFInU4FoWBVFDj0zQNxhsn2NC80HAAADApFCkWoRgpE6FvKU6h6ClQol0pVqMcKUSjvSlYpDMpV6SwKVKlCSlYpX4pVaX6KUemgylIpwIpL6ejKUSoNClPqOIpUqklKVipmSlTqhYpSKqTtC0JRodJAAEaH8wABg0I3MUQg&width=499">
 
 </body>
 </html>
