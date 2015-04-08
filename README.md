@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
 <title>Esthéticienne à domicile</title>
 <link href='https://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
@@ -121,3 +122,4 @@ input {
 </div>
 
 </body>
+</html>
