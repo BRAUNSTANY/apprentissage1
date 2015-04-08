@@ -92,7 +92,7 @@ input {
 </head>
 
 <body>
-<h1><strong><u>Aux mille flots bleus</u></strong></h1>
+<h1>Candice Esthétic</h1>
 <h2><em>Fabricant de piscines enterrees depuis 1977<em></h2>
 <h4>(livraison dans toute la France)</h4>
 <center><input type="email" placeholder="Demander un devis gratuit">
